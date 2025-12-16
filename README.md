@@ -1,15 +1,14 @@
 # Portofolio
 
-Saya mahasiswa Teknik Komputer yang sedang dalam proses menyiapkan portofolio.
-Repository ini akan terus diperbarui.
+Saya mahasiswa Teknik Komputer yang sedang dalam proses
+mengembangkan portofolio.
 
-## Proyek Awal
-- Sistem Perpustakaan PHP (on progress)
-- Simulasi ESP32 Sensor Cahaya (on progress)
+## Project Saat Ini
+- ESP32 Monitoring Cahaya (Wokwi)
+  https://github.com/username/esp32-ldr-wokwi
 
-## Teknologi
-- PHP, MySQL
-- HTML, CSS, JavaScript
-- ESP32, Wokwi
+## Project Selanjutnya (on progress)
+- Sistem Web PHP + MySQL
+- Simulasi Jaringan Cisco Packet Tracer
 
-Update berkala akan dilakukan selama proses seleksi dan program.
+Portofolio akan diperbarui secara bertahap.

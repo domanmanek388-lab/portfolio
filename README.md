@@ -5,7 +5,7 @@ mengembangkan portofolio.
 
 ## Project Saat Ini
 - ESP32 Komunikasi Antar Task Menggunakan Queue
-  https://github.com/username/esp32-ldr-wokwi
+  https://github.com/domanmanek388-lab/ESP32-Message-QueueFile-wokwi
 
 ## Project Selanjutnya (on progress)
 

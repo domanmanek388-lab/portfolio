@@ -8,5 +8,6 @@ mengembangkan portofolio.
   https://github.com/domanmanek388-lab/ESP32-Message-QueueFile-wokwi
 
 ## Project Selanjutnya (on progress)
+- 
 
 Portofolio akan diperbarui secara bertahap.
